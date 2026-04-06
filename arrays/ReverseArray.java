@@ -1,3 +1,4 @@
+package arrays;
 class ReverseArray{
     // basic way to reverse an array
    /*  public static void main(String[] args) {

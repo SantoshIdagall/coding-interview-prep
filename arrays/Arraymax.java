@@ -1,3 +1,4 @@
+package arrays;
 class Arraymax{
 
     public static int findbyMax(int[] arr){

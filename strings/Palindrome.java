@@ -14,9 +14,16 @@ public class Palindrome {
          return rev.equals(str);
          
      }
+
+  //   public static String reverse(String str) { 
+  //  return new StringBuilder(str).reverse().toString(); 
+  //  } 
+
+
      public static void main(String[] args) {
         String str = "madam";
-          System.out.println(str);
+         System.out.println(str);
+         // System.out.println(reverse(str));
 
      }
 

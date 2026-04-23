@@ -15,6 +15,6 @@ public class MissingNumber {
     
      public static void main(String[] args) {
         int [] arr ={1,2,3,4,5,6,9,10,7};
-        System.out.println(missingnumber(arr, 10));
+        System.out.println(missingnumber(arr,10));
      }
 }

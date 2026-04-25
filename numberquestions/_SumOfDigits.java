@@ -14,7 +14,10 @@ public class _SumOfDigits {
 
     public static void main(String[] args) {
         int num =123546;
-        System.out.println(sumofdigits(num));
+        //System.out.println(sumofdigits(num));
+          int digits = sumofdigits(num);
+          System.out.println("Sum Of number digts ");
+
     }
     
 }

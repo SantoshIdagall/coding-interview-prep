@@ -6,6 +6,6 @@ Java coding problems for:
 - Numbers
 - Data Structures
 - Algorithms
-- LeetCode practice
+- LeetCode problems
 
 Author: Santosh Idagall

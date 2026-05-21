@@ -8,4 +8,4 @@ Java coding problems for:
 - Algorithms
 - LeetCode problems
 
-Author: Santosh Idagall
+Author: Santosh Idagalla

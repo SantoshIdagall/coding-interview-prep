@@ -18,7 +18,7 @@ public class ReverseString {
     }
 
     public static void main(String[] args) {
-        String str = "hello";
+        String str = "madam";
         System.out.println(reverse(str));
     }
     

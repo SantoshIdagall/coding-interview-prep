@@ -14,7 +14,6 @@ public class Factorial {
     }
      return fact;
     } 
-
     // Recursive Approach 
     /*public static  long factorial(int n){
         if (n < 0) {

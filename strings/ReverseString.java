@@ -3,7 +3,7 @@ public class ReverseString {
       public static String reverse(String str) {
         char[] ch = str.toCharArray();
         int left = 0;
-        int right = ch.length - 1;
+        int right = ch.length- 1;
 
         while (left < right) {
             char temp = ch[left];

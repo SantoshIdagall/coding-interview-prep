@@ -10,8 +10,7 @@ if (n % i == 0) sum += i;
 return sum == n; 
 }
 public static void main(String[] args) {
-     int n = 6;
+     int n = 6;   
      System.out.println(isPerfect(n));
 }
-
 }

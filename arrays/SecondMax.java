@@ -23,7 +23,7 @@ public class SecondMax {
 
     public static void main(String [] args){
         int [] arr = {10,20,30,40, 50};
-     // int  secondmax= findSecond(arr);
+      int  secondmax= findSecond(arr);
      System.out.println(findSecond(arr));
 
     }

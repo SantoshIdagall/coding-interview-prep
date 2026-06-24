@@ -11,7 +11,6 @@ public class _SumOfDigits {
          }
          return sum;
     }
-
     public static void main(String[] args) {
         int num =123546;
         //System.out.println(sumofdigits(num));

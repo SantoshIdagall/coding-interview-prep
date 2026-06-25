@@ -10,7 +10,7 @@ public class ReverseNumber {
             
         }
         return rev;
-    }
+    } 
     public static void main(String[] args) {
         int num = 123;
         System.out.println(revrsenum(num));
